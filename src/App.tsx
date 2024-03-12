@@ -5,6 +5,7 @@ const App = () => {
   return (
     <>
       <Table />
+      <h1>neki drugi tekst</h1>
     </>
   );
 };
