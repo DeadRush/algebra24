@@ -5,6 +5,7 @@ const App = () => {
   return (
     <>
       <Table />
+      <h1>ajde</h1>
     </>
   );
 };
