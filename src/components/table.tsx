@@ -10,7 +10,7 @@ const Table = () => {
             <th>Brand</th>
             <th>Model</th>
             <th>Year</th>
-            <th>Image</th>
+            <th>Images</th>
             <th>Diesel</th>
           </tr>
         </thead>
